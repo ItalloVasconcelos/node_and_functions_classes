@@ -1,2 +1,2 @@
 # node_and_functions_classes
-Aualas de node
+Aulas de node e sistemas em JS
